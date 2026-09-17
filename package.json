@@ -1,0 +1,24 @@
+{
+  "name": "gen_ai",
+  "version": "1.0.0",
+  "description": "These are simple notes about GenAI, LLMs, tokens, tools, and using AI in websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilankathi/gen_ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/akhilankathi/gen_ai/issues"
+  },
+  "homepage": "https://github.com/akhilankathi/gen_ai#readme",
+  "dependencies": {
+    "tiktoken": "^1.0.22"
+  }
+}

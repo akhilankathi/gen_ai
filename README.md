@@ -2,6 +2,24 @@
 
 These are simple notes about GenAI, LLMs, tokens, tools, and using AI in websites.
 
+
+Installation >
+npm install tiktoken ( tokenizer for OpenAI)
+
+
+Choosing right Model (LLM)>>
+1) reasoning ( how smart the model is )
+2) how fast is model 
+3) what kinda of input and output we need to give model 
+4) cost ( whats the cost of model and tokens)
+5) context window ( how much prompt can be proccessed at once)
+6) privacy 
+
+check and compare while choosing and based on our requirement 
+
+Model settings understanding >>
+
+
 ## What is Generative AI?
 
 Generative AI creates new content from a request. It can create:
